@@ -1,0 +1,12 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "database": "${workspaceFolder:gerenciador_de_cursos}/db.sqlite",
+            "name": "Cursos",
+            "group": "Alura"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
